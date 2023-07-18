@@ -1,0 +1,11 @@
+{
+    "host":"127.0.0.1",
+    "user":"travis",
+    "port":3306,
+    "password":null,
+    "database":"emysql_test",
+    "multipleStatements":true,
+    "max_conn":10,
+    "max_fail":20,
+    "retryInterval":10000
+}

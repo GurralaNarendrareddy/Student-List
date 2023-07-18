@@ -1,0 +1,11 @@
+{
+    "host":"localhost",
+    "user":"root",
+    "port":3306,
+    "password":"*** Your Password ***",
+    "database":"test",
+    "multipleStatements":true,
+    "max_conn":10,
+    "max_fail":20,
+    "retryInterval":10000
+}

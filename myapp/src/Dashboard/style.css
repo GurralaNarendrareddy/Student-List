@@ -1,0 +1,28 @@
+.student-list-cont{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(57, 57, 207);
+}
+.list-cont{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    background-color: aliceblue;
+    width:700px;
+    border-radius:10px;
+    padding:20px;
+}
+.btn-cont{
+    align-self: flex-end;
+}
+.form-main-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.profile{
+    height: 100vh;
+}
